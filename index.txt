@@ -1,8 +1,7 @@
-   · git status
-   · git add
-   · git commit
-   · git push
-   · git checkout
-   · git merge
-   · git pull
-   · git remote
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+   <H1> GIT </H1>
+   <H1> VERSIONAMENTO </H1>
+</BODY>
+</HTML>
